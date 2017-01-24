@@ -11,27 +11,3 @@ http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
 http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_vradio/index.m3u8
 #EXTINF:-1,NL | Omroep Brabant
 http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
-#EXTINF:-1,NL | DTV
-http://rrr.sz.xlcdn.com/?account=maasland&file=web&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1,NL | Omroep Ede
-rtmp://live.streamone.nl/livestream/yEr2XzzAi311
-#EXTINF:-1,NL | Omroep Flevoland
-http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4/playlist.m3u8
-#EXTINF:-1,NL | Omrop Fryslân
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
-#EXTINF:-1,NL | Omroep Gelderland
-http://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:-1,NL | HK13TV (Harderwijk en Hierden)
-http://hk13live.playbackurl.com/hls/hk13live.m3u8
-#EXTINF:-1,NL | Klipkar TV (Friesche Muziek Clips)
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:-1,NL | Lokale Omroep Heusden
-rtmp://live.streamone.nl/livestream/h3kXcf2yyam
-#EXTINF:-1,NL | Lokale Omroep Nuenen
-http://88.159.1.72:1935/lon/lonweb_720p/playlist.m3u8
-#EXTINF:-1,NL | Lokale Omroep Stein
-rtmp://live.streamone.nl/livestream/uS8Cmdh711
-#EXTINF:-1,NL | LOO-TV
-http://rrr.sz.xlcdn.com/?account=onderbanken&file=web&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,NL | L.O.O.W. Enkhuizen
-rtmp://live.streamone.nl/livestream/fDa32BaPi9r3
