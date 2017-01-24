@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1,NL | 3ML
 rtmp://fms1.3ml.nl/livepkgr/livetv
-#EXTINF:-1,NL | 538 TV.NL
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:-1,NL | Alphen Stad TV (Alphen a/d Rijn)
-http://rrr.sz.xlcdn.com/?account=studioalphen&file=web&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,NL | AT5
-http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
-#EXTINF:-1,NL | Brabant Radio
-http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_vradio/index.m3u8
-#EXTINF:-1,NL | Omroep Brabant
-http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
+#EXTINF:-1,NL | Omroep Ede
+rtmp://live.streamone.nl/livestream/yEr2XzzAi311
+#EXTINF:-1,NL | Lokale Omroep Heusden
+rtmp://live.streamone.nl/livestream/h3kXcf2yyam
