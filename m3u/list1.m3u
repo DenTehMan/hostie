@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,NL | 3ML
 rtmp://fms1.3ml.nl/livepkgr/livetv
-#EXTINF:-1,NL | Omroep Ede
-rtmp://live.streamone.nl/livestream/yEr2XzzAi311
-#EXTINF:-1,NL | Lokale Omroep Heusden
-rtmp://live.streamone.nl/livestream/h3kXcf2yyam
+#EXTINF:-1,NL | 538 TV.NL
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
