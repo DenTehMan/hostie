@@ -2,7 +2,7 @@
 #EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ NEDERLAND █ ▇ ▆ ▅ ▄ ▃
 http://iptvmega.dyndns.tv:8040/live/rodrigues/rodrigues/2412.ts
 #EXTINF:-1,NL | 3ML
-http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
+rtmp://fms1.3ml.nl/livepkgr/_definst_/liveevent/livetv.m3u8
 #EXTINF:-1,NL | 538 TV.NL
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:-1,NL | Alphen Stad TV (Alphen a/d Rijn)
