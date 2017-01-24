@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ NEDERLAND █ ▇ ▆ ▅ ▄ ▃
 http://iptvmega.dyndns.tv:8040/live/rodrigues/rodrigues/2412.ts
 #EXTINF:-1,NL | 538 TV.NL
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
@@ -119,7 +118,6 @@ rtmp://live.streamone.nl/livestream/u3DhA9TvBa
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1,NL | Zoetermeer FM
 rtmp://kippingmultimediaal.nl:1935/live/ZFM1
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ DUITSLAND █ ▇ ▆ ▅ ▄ ▃
 #EXTINF:-1,DE | SYFY
 http://300panel2300.com:8000/live/Mehmetanahtar/Mehmet1/3425.ts
 #EXTINF:-1,DE | Srf1
