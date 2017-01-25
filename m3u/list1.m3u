@@ -119,7 +119,7 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 rtmp://kippingmultimediaal.nl:1935/live/ZFM1
 
 #EXTINF:-1,DE | ZDF
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/99.ts
+http://homefrends.ddns.me:5500/live/gejo/Martin/397.ts
 #EXTINF:-1,DE | SAT 1
 http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/242.ts
 #EXTINF:-1,DE | SAT1 HD
