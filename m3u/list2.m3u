@@ -1,0 +1,20 @@
+#EXTINF:-1,NL | Film1 Premiere
+http://ip.cs4ip.com:8000/live/1234567/1234567/749.ts
+#EXTINF:-1,NL | Film1 Action
+http://ip.cs4ip.com:8000/live/1234567/1234567/752.ts
+#EXTINF:-1,NL | Film1 Family
+http://live.softiptv.com:9900/live/jagdish/jagdish/26306.ts
+#EXTINF:-1,NL | Film1 Drama
+http://live.softiptv.com:9900/live/jagdish/jagdish/26305.ts
+#EXTINF:-1,NL | Film1 Sundance
+http://ip.cs4ip.com:8000/live/1234567/1234567/750.ts
+#EXTINF:-1,DU | Heimatkanal
+http://149.202.71.237:8000/live/ramazan/ramazan/3408.ts
+#EXTINF:-1,DU | Gold Star
+http://149.202.71.237:8000/live/ramazan/ramazan/3361.ts
+#EXTINF:-1,DU | ORF 1
+http://149.202.71.237:8000/live/ramazan/ramazan/2713.ts
+#EXTINF:-1,DU | ORF 2
+http://149.202.71.237:8000/live/ramazan/ramazan/396.ts
+#EXTINF:-1,DU | SRF 1
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/947.ts
